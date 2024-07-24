@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Raj Patil
-- 👀 I’m interested in Penetration Testing
-- 🌱 I’m currently learning Web application Penetration Testing 
+- 👀 I’m wrking as Information security Consultant at A3S Tech & Co. 
 - 📫 Reach Me at LinkedIn :- https://www.linkedin.com/in/raj-p-938176179/
 - 📫 Reach Me at Twitter :- https://twitter.com/R34P3RH4CK3R
 <!---
